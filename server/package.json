@@ -1,0 +1,24 @@
+{
+  "name": "firststepfitness",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+      "start": "node server.js",
+      "watch": "nodemon",
+      "seed": "node seeders/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+      "bcrypt": "^4.0.1",
+      "jsonwebtoken": "^8.5.1",
+      "@apollo/server": "^4.7.1",
+      "express": "^4.17.2",
+      "graphql": "^16.6.0",
+      "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+      "nodemon": "^3.0.3"
+  }
+}
