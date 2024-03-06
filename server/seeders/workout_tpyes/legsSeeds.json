@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Body Squats",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Weighted Squats",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Leg Press",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Leg Extensions",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Lunges",
+    "exercise_type": "Legs",
+    "image": ""
+  }
+]

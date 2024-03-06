@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hammer Dumbbell Curls",
+    "exercise_type": "Arms",
+    "image": ""
+  },
+  {
+    "name": "Triceps Cable Extension",
+    "exercise_type": "Arms",
+    "image": ""
+  },
+  {
+    "name": "Skull Crushers (Tric)",
+    "exercise_type": "Arms",
+    "image": ""
+  },
+  {
+    "name": "Barbell Bicep Curl",
+    "exercise_type": "Arms",
+    "image": ""
+  }
+]

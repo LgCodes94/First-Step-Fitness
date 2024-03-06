@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Back Cable Row",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Lat Pulldown",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Bent Over Dumbbell Row",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Assisted Pull or Body Weight",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Back Bend Over Rows",
+    "exercise_type": "Back",
+    "image": ""
+  }
+]
