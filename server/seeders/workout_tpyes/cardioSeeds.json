@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Stair Master",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Jump Rope",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Suicide Drills",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Treadmills",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Biking",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Swimming",
+    "exercise_type": "Cardio",
+    "image": ""
+  }
+]

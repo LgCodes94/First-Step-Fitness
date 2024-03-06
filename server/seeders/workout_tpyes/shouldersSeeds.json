@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Shoulder Dumbbell Raises Single or Together",
+    "sets": 3,
+    "reps": 12,
+    "exercise_type": "Shoulders",
+    "image": "/images/Shoulders/shoulderExercises/shoulderRaises.png"
+  },
+  {
+    "name": "Shoulder Press Dumbbell",
+    "sets": 3,
+    "reps": 10,
+    "exercise_type": "Shoulders",
+    "image": "/images/Shoulders/shoulderExercises/shoulderPressDumbell.png"
+  },
+  {
+    "name": "Shoulder Cable Extension",
+    "exercise_type": "Shoulders",
+    "image": ""
+  },
+  {
+    "name": "Shoulder Cable Crossover",
+    "exercise_type": "Shoulders",
+    "image": ""
+  },
+  {
+    "name": "Shoulder Rotation Rehab/Recovery",
+    "exercise_type": "Shoulders",
+    "image": ""
+  }
+]

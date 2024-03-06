@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Plank",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Crunches",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Russian Twist",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Pull Up Bar Knees to Tummy",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Side Dumbbell Crunches",
+    "exercise_type": "Core",
+    "image": ""
+  }
+]

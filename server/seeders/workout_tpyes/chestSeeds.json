@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bench Press",
+    "exercise_type": "Chest",
+    "image": ""
+  },
+  {
+    "name": "Dumbbell Incline Press",
+    "exercise_type": "Chest",
+    "image": ""
+  },
+  {
+    "name": "Chest Cable Flys",
+    "exercise_type": "Chest",
+    "image": ""
+  },
+  {
+    "name": "Push Ups",
+    "exercise_type": "",
+    "image": ""
+  },
+  {
+    "name": "Chest Dips",
+    "exercise_type": "Chest",
+    "image": ""
+  }
+]
