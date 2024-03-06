@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Bench Press",
+    "exercise_type": "Chest",
+    "image": ""
+  },
+  {
+    "name": "Dumbbell Incline Press",
+    "exercise_type": "Chest",
+    "image": ""
+  },
+  {
+    "name": "Chest Cable Flys",
+    "exercise_type": "Chest",
+    "image": ""
+  },
+  {
+    "name": "Push Ups",
+    "exercise_type": "",
+    "image": ""
+  },
+  {
+    "name": "Chest Dips",
+    "exercise_type": "Chest",
+    "image": ""
+  },
+  {
+    "name": "Body Squats",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Weighted Squats",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Leg Press",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Leg Extensions",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Lunges",
+    "exercise_type": "Legs",
+    "image": ""
+  },
+  {
+    "name": "Plank",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Crunches",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Russian Twist",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Pull Up Bar Knees to Tummy",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Side Dumbbell Crunches",
+    "exercise_type": "Core",
+    "image": ""
+  },
+  {
+    "name": "Back Cable Row",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Lat Pulldown",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Bent Over Dumbbell Row",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Assisted Pull or Body Weight",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Back Bend Over Rows",
+    "exercise_type": "Back",
+    "image": ""
+  },
+  {
+    "name": "Hammer Dumbbell Curls",
+    "exercise_type": "Arms",
+    "image": ""
+  },
+  {
+    "name": "Triceps Cable Extension",
+    "exercise_type": "Arms",
+    "image": ""
+  },
+  {
+    "name": "Skull Crushers (Tric)",
+    "exercise_type": "Arms",
+    "image": ""
+  },
+  {
+    "name": "Barbell Bicep Curl",
+    "exercise_type": "Arms",
+    "image": ""
+  },
+  {
+    "name": "Shoulder Dumbbell Raises Single or Together",
+    "sets": 3,
+    "reps": 12,
+    "exercise_type": "Shoulders",
+    "image": "/images/Shoulders/shoulderExercises/shoulderRaises.png"
+  },
+  {
+    "name": "Shoulder Press Dumbbell",
+    "sets": 3,
+    "reps": 10,
+    "exercise_type": "Shoulders",
+    "image": "/images/Shoulders/shoulderExercises/shoulderPressDumbell.png"
+  },
+  {
+    "name": "Shoulder Cable Extension",
+    "exercise_type": "Shoulders",
+    "image": ""
+  },
+  {
+    "name": "Shoulder Cable Crossover",
+    "exercise_type": "Shoulders",
+    "image": ""
+  },
+  {
+    "name": "Shoulder Rotation Rehab/Recovery",
+    "exercise_type": "Shoulders",
+    "image": ""
+  },
+  {
+    "name": "Stair Master",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Jump Rope",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Suicide Drills",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Treadmills",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Biking",
+    "exercise_type": "Cardio",
+    "image": ""
+  },
+  {
+    "name": "Swimming",
+    "exercise_type": "Cardio",
+    "image": ""
+  }
+]
